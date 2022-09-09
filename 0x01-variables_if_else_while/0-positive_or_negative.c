@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
@@ -48,4 +47,3 @@ int main(void)
 
 	return (0);
 }
->>>>>>> 503212983816e20dbbdb4bd2f54bb5c1fe1043d0
